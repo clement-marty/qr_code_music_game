@@ -4,7 +4,7 @@
 
 ## Project Description
 This project is a QR Code Music Game that allows to create and play music by interacting with a grid-based interface.  
-You can create music by toggling cells in the grid, similar to playong notes on a piano.
+You can create music by toggling cells in the grid, similar to playing notes on a piano.
 The game logic is implemented in the code, and the entire code is embedded in a QR code.
 
 ## Files
